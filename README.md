@@ -5,8 +5,8 @@ I'm a former chemical engineer turned web developer passionate about building di
 ## 💻 What I'm working on
 
 - 🔭 Currently freelancing and building web apps with **Ruby on Rails** and **JavaScript**
-- 🧪 Just finished building [L.O.Ve](#) – a biodiversity platform for La Réunion
-- 🛋 Co-created [Nestify](#) – an app to help people furnish their home with style
+- 🧪 Just finished building [L.O.Ve](https://www.klorys.re/) – a biodiversity platform for La Réunion
+- 🛋 Co-created [Nestify](https://nestify.pics/) – an app to help people furnish their home with style
 
 ## 🧰 Tech I use
 
