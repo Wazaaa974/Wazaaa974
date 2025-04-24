@@ -30,7 +30,7 @@ I'm a former chemical engineer turned web developer passionate about building di
 
 - 📧 Email: thomas.alonso.dev@gmail.com
 - 🌐 Portfolio: [thomasalonso.dev](https://wazaaa974.github.io/)
-- 💼 LinkedIn: [linkedin.com/in/thomasalonso](https://linkedin.com/in/thomasalonso)
+- 💼 LinkedIn: [linkedin.com/in/thomasalonso](https://linkedin.com/in/thomasalonsoifp)
 
 ---
 
