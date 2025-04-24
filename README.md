@@ -22,14 +22,14 @@ I'm a former chemical engineer turned web developer passionate about building di
 ## 🌍 A bit about me
 
 - 🇫🇷 Born in France, lived in 4 countries 🌎
-- 🧗‍♂️ I love rock climbing, traveling, and building things
+- 🧗‍♂️ I love rock climbing, riding motorcyles, and building things
 - 🧠 I thrive in creative, fast-paced environments
-- 🧪 Background in chemistry, MBA from IFP School
+- 🧪 Bachelor's degree in chemistry, master's degree from ENSIC, master's degree from IFP School
 
 ## 📫 Let’s connect!
 
 - 📧 Email: thomas.alonso.dev@gmail.com
-- 🌐 Portfolio: [thomasalonso.dev](https://your-portfolio.com)
+- 🌐 Portfolio: [thomasalonso.dev](https://wazaaa974.github.io/)
 - 💼 LinkedIn: [linkedin.com/in/thomasalonso](https://linkedin.com/in/thomasalonso)
 
 ---
